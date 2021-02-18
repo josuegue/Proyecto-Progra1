@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.exe
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.deps.json
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.json
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\bin\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.AssemblyInfo.cs
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.dll
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.pdb
+C:\Users\Flor\source\repos\NumeroPrimo\NumeroPrimo\obj\Debug\netcoreapp3.1\NumeroPrimo.genruntimeconfig.cache
