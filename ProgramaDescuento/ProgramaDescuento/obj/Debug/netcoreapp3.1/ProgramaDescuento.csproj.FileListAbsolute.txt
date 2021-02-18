@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.AssemblyInfo.cs
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.exe
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.deps.json
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.runtimeconfig.json
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.dll
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\bin\Debug\netcoreapp3.1\ProgramaDescuento.pdb
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.dll
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.pdb
+C:\Users\Flor\source\repos\ProgramaDescuento\ProgramaDescuento\obj\Debug\netcoreapp3.1\ProgramaDescuento.genruntimeconfig.cache
