@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.exe
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.deps.json
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.runtimeconfig.json
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.dll
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\bin\Debug\netcoreapp3.1\Añobisiesto.pdb
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.AssemblyInfo.cs
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.dll
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.pdb
+C:\Users\Flor\source\repos\Añobisiesto\Añobisiesto\obj\Debug\netcoreapp3.1\Añobisiesto.genruntimeconfig.cache
