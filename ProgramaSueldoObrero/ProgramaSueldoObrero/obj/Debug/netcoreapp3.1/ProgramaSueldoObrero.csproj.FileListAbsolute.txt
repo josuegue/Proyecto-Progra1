@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.AssemblyInfo.cs
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.exe
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.deps.json
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.runtimeconfig.json
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.dll
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\bin\Debug\netcoreapp3.1\ProgramaSueldoObrero.pdb
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.dll
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.pdb
+C:\Users\Flor\source\repos\ProgramaSueldoObrero\ProgramaSueldoObrero\obj\Debug\netcoreapp3.1\ProgramaSueldoObrero.genruntimeconfig.cache
