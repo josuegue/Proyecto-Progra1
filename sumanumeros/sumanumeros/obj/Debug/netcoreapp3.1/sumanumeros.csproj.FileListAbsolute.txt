@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.exe
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.deps.json
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.runtimeconfig.json
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.dll
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\bin\Debug\netcoreapp3.1\sumanumeros.pdb
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.AssemblyInfo.cs
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.dll
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.pdb
+C:\Users\Flor\source\repos\sumanumeros\sumanumeros\obj\Debug\netcoreapp3.1\sumanumeros.genruntimeconfig.cache
