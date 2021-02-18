@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.exe
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.deps.json
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.runtimeconfig.json
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.dll
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\bin\Debug\netcoreapp3.1\SwitchDiasSemana.pdb
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.AssemblyInfo.cs
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.dll
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.pdb
+C:\Users\Flor\source\repos\SwitchDiasSemana\SwitchDiasSemana\obj\Debug\netcoreapp3.1\SwitchDiasSemana.genruntimeconfig.cache
