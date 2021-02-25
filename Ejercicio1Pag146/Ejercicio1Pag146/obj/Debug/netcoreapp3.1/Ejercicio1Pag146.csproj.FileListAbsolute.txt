@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.exe
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.deps.json
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.runtimeconfig.json
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.dll
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\bin\Debug\netcoreapp3.1\Ejercicio1Pag146.pdb
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.AssemblyInfo.cs
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.dll
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.pdb
+C:\Users\Flor\source\repos\Ejercicio1Pag146\Ejercicio1Pag146\obj\Debug\netcoreapp3.1\Ejercicio1Pag146.genruntimeconfig.cache
