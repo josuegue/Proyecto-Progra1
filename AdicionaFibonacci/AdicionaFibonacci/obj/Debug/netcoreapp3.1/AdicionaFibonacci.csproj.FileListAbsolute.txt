@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.exe
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.deps.json
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.runtimeconfig.json
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.dll
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\bin\Debug\netcoreapp3.1\AdicionaFibonacci.pdb
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.AssemblyInfo.cs
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.dll
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.pdb
+C:\Users\Flor\source\repos\AdicionaFibonacci\AdicionaFibonacci\obj\Debug\netcoreapp3.1\AdicionaFibonacci.genruntimeconfig.cache

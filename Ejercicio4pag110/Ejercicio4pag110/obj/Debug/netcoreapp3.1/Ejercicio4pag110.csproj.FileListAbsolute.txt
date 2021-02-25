@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.AssemblyInfo.cs
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.exe
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.deps.json
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.runtimeconfig.json
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.dll
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\bin\Debug\netcoreapp3.1\Ejercicio4pag110.pdb
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.dll
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.pdb
+C:\Users\Flor\source\repos\Ejercicio4pag110\Ejercicio4pag110\obj\Debug\netcoreapp3.1\Ejercicio4pag110.genruntimeconfig.cache

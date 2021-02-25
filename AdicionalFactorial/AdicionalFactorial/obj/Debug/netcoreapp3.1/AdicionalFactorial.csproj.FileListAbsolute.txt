@@ -1,0 +1,13 @@
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.exe
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.deps.json
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.runtimeconfig.json
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.runtimeconfig.dev.json
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.dll
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\bin\Debug\netcoreapp3.1\AdicionalFactorial.pdb
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.csprojAssemblyReference.cache
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.AssemblyInfoInputs.cache
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.AssemblyInfo.cs
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.csproj.CoreCompileInputs.cache
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.dll
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.pdb
+C:\Users\Flor\source\repos\AdicionalFactorial\AdicionalFactorial\obj\Debug\netcoreapp3.1\AdicionalFactorial.genruntimeconfig.cache
