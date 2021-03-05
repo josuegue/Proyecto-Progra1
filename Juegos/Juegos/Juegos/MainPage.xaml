@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Juegos.MainPage"
+             Title="Adivina Adivinador">
+
+
+    <StackLayout>
+        <Label x:Name="labelTexto"
+               TextColor="Aqua"
+               Text="Hola ¿Quieres jugar? &#10;---------- Animate ----------"
+               VerticalOptions="Center"
+               HorizontalOptions="Center"/>
+
+        <Button x:Name="buttonpagina1"
+                Text="¿Te adivino el numero que piensas?"
+                Clicked="buttonpagina1_Clicked"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+
+        <Button x:Name="buttonOtrapagina"
+                Clicked="buttonOtrapagina_Clicked_1"
+                Text="¿Adivino tu edad y tu mes de nacimiento?"
+                VerticalOptions="Center"
+                HorizontalOptions="Center"/>
+    </StackLayout>
+                 
+        
+
+
+
+</ContentPage>

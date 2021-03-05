@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Juegos.Page2"
+             Title="Ejercicio 2">
+    <ContentPage.Content>
+        <StackLayout VerticalOptions="Center"
+                     HorizontalOptions="Center">
+            <Label x:Name="Pagina2"
+                TextColor="Aqua"
+                Text="Adivinaré tu edad y fecha de nacimiento.&#10;Utiliza una calculadora para que se te haga más fácil.&#10; Multiplica tu edad por 20.&#10; Luego sumale 73.&#10;Al resultado multiplicalo por 5.&#10;Y por último sumale tu mes de nacimiento."
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Entry Placeholder="Ingresa el resultado" x:Name="dato"
+                   Keyboard="Numeric"/>
+            <Button Text="Preciona para generar el resultado"
+                    Clicked="Button_Clicked"/>
+            
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
